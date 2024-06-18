@@ -1,0 +1,1 @@
+set "PYTHONPATH=C:\Program Files\CoppeliaRobotics\CoppeliaSimEdu\programming\zmqRemoteApi\clients\python\src"
