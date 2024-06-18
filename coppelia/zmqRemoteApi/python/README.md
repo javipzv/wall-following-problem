@@ -28,7 +28,11 @@ $ sudo apt install python3-zmq
 
 ## How to use
 
-Firtly, add the Python modules provided by CoppeliaSim to the ``PYTHONPATH`` variable by running the ``config.bash`` script.  Remember to use ``source`` to force the execution in the current shell, otherwise the value of the variable will not be changed.  Feel free to modify the script accordingly to refer the correct directory or to add these modules to the path.
+### Windows
+Execute the command in ``command.txt``, changing the path if necessary.
+
+### Linux
+Firstly, add the Python modules provided by CoppeliaSim to the ``PYTHONPATH`` variable by running the ``config.bash`` script.  Remember to use ``source`` to force the execution in the current shell, otherwise the value of the variable will not be changed.  Feel free to modify the script accordingly to refer the correct directory or to add these modules to the path.
 
 ```
 $ source config.bash
