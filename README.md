@@ -14,3 +14,5 @@ You should have received a copy of the GNU General Public License along with thi
 
 ## Usage
 The instructions can be found in the README.md file located inside the python folder. You can explore and try out both implementations: the heuristic algorithm and the Q-Learning approach. You can load an specific scene for this task located inside scenes folder which name is ``wall-scene.ttt``.
+
+Links to some videos are available in ``report.pdf``.
