@@ -17,4 +17,4 @@ The instructions can be found in the README.md file located inside the python fo
 
 Links to some videos are available in ``report.pdf``.
 
-<img width="457" alt="escena" src="https://github.com/javipzv/wall-following-problem/assets/90279135/67838aec-bac4-4363-b203-d471680d9beb">
+<img width="700" alt="scene" src="https://github.com/javipzv/wall-following-problem/assets/90279135/3e9ae36e-362f-4eb6-96a2-b0d46e1abce0">
